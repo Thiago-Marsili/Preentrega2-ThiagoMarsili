@@ -1,4 +1,4 @@
-// Definimos un objeto de película
+// Defino un objeto
 const celulares = [
     {
       marca: "Samsung",
